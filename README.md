@@ -1,5 +1,3 @@
-# Prakriti-Ayurveda-bot
-
 # Prakriti Assessment Chatbot
 
 A Python-based web application using Flask designed to assess an individual's Prakriti and provide personalized health tips based on the dominant Dosha. The project integrates a chatbot, leveraging the Hugging Face library, to interact with users and offer further guidance.
